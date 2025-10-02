@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!-- Profile Header -->
 <h1 align="center">🌺 Aloha! I'm Vinitha 🌊</h1>
