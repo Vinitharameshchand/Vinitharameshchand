@@ -21,14 +21,7 @@
   <a href="https://instagram.com/stitch_v626___" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
----
 
-### 🛠️ Languages & Tools  
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=aws,css,django,dotnet,figma,firebase,framer,html,js,mysql,postgres,python,react,reactnative" />
-</p>
-
----
 
 ### 📊 GitHub Stats  
 <p align="center">
