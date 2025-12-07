@@ -29,18 +29,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitharameshchand&theme=tokyonight" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitharameshchand&layout=compact&theme=tokyonight" alt="languages"/>
-</p>
 
----
 
-### 🏆 Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinitharameshchand&theme=onedark&no-frame=false&margin-w=4"/>
-</p>
 
----
 
 
 
