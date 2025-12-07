@@ -63,23 +63,11 @@
 
 ---
 
-### ⌨️ Typing Game  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00CFFF&lines=Aloha!+🌊;Welcome+to+Vinitha's+GitHub!;Stitch+💙+Loves+Coding+🚀;Let's+Build+Cool+Stuff!" />
-</p>
+
 
 ---
 
-### 🍉 Fruit Cutter Game (Play Now!)  
-<p align="center">
-  <a href="https://vinitharameshchand.github.io/fruit-cutter-game/" target="_blank">
-    <img src="https://img.shields.io/badge/🎮%20Play%20Fruit%20Cutter%20Game-blueviolet?style=for-the-badge" alt="Fruit Cutter Game"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="Fruit Cutter preview"/>
-</p>
 
 ---
 
