@@ -4,12 +4,7 @@
 <h1 align="center">🌺 Aloha! I'm Vinitha 🌊</h1>
 <h3 align="center">✨ Freelancer | 💡 Product Builder | 🩵 Stitch Fanatic</h3>
 
-<!-- Fun Stitch GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="Stitch coding gif"/>
-</p>
 
----
 
 ### 👩‍💻 About Me  
 - 🔭 I’m currently working on **fun AI + Web projects**  
@@ -54,11 +49,6 @@
 
 ---
 
-## 🎮 Games Corner  
 
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Vinitharameshchand/Vinitharameshchand/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
-</p>
 
 
