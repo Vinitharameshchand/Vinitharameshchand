@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me  
 - 🔭 I’m currently working on **fun AI + Web projects**  
-- 🌱 Learning **Blockchain | AI/ML | Cybersecurity**  
+- 🌱 Learning Blockchain | AI/ML 
 - 💬 Ask me about **Web Dev, Freelancing & Creative Tech**  
 - 🩵 Fun fact: I vibe with **coffee ☕, music 🎶 and Stitch 💙**  
 
